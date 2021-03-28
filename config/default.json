@@ -1,0 +1,6 @@
+{
+  "port":  5000,
+  "jwtSecret": "nurik mern",
+  "mongoUri": "mongodb+srv://nurik:1q2w3e4r@cluster0.vai1j.mongodb.net/mern2",
+  "baseUrl": "http://localhost:5000"
+}
